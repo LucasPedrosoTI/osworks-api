@@ -1,0 +1,1 @@
+ALTER TABLE `clientes` rename column telefone to phone; 
